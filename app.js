@@ -125,7 +125,7 @@ servidor.post('/loja/pedido/completo', (req,resp) => {
     })
 })
 
- console.log("bbbbbbbb")
+ 
 
   
 servidor.listen(
